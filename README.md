@@ -134,5 +134,3 @@ Die Daten werden in folgenden Klassen verwaltet:
 
 - **Technische Herausforderungen:** Probleme bei der Berechnung oder Anzeige von Informationen.
 - **Zeitmanagement:** Verzögerungen bei der Entwicklung oder Testphase.
-
-Mit dieser Dokumentation und dem Lastenheft haben Sie eine detaillierte Übersicht über Ihr Projekt, die Ihnen sowohl beim Entwickeln als auch beim Dokumentieren auf GitHub helfen wird.
