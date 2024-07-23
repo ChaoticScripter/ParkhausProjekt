@@ -20,10 +20,6 @@ Das System bietet Funktionen zur Verwaltung von Autos, Motorrädern und Fahrräd
 
    ```bash
    git clone https://github.com/ChaoticScripter/parkhaus-projekt.git
-
-
-
-
 ### Tabelle der Klassen und Methoden
 
 | Klasse       | Methode                           | Beschreibung                                                    |
